@@ -1,4 +1,4 @@
-# Bom-Gosto
+# Bom-Gosto Mobile App and Website
 
 Project Description:
 The goal of this project is to create a dynamic and user-friendly mobile and website application for Bom Gosto restaurant. The project will encompass various stages, starting with the development of the back and front end using Django framework, and incorporating a visually appealing design created with Figma. The finalized website will be hosted on pythonanywhere.
