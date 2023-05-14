@@ -1,5 +1,5 @@
 """
-WSGI config for littlelemon project.
+WSGI config for bomgosto project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

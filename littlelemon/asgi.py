@@ -1,5 +1,5 @@
 """
-ASGI config for littlelemon project.
+ASGI config for bomgosto project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
